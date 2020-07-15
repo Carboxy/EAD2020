@@ -1,0 +1,1465 @@
+{
+  "info": "spytensor created",
+  "license": [
+    "license"
+  ],
+  "images": [
+    {
+      "height": 457,
+      "width": 535,
+      "id": 0,
+      "file_name": "ead2020_testD_0001.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 1,
+      "file_name": "ead2020_testD_0002.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 2,
+      "file_name": "ead2020_testD_0003.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 3,
+      "file_name": "ead2020_testD_0004.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 4,
+      "file_name": "ead2020_testD_0005.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 5,
+      "file_name": "ead2020_testD_0006.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 6,
+      "file_name": "ead2020_testD_0007.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 7,
+      "file_name": "ead2020_testD_0008.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 8,
+      "file_name": "ead2020_testD_0009.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 9,
+      "file_name": "ead2020_testD_0010.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 10,
+      "file_name": "ead2020_testD_0011.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 11,
+      "file_name": "ead2020_testD_0012.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 12,
+      "file_name": "ead2020_testD_0013.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 13,
+      "file_name": "ead2020_testD_0014.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 14,
+      "file_name": "ead2020_testD_0015.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 15,
+      "file_name": "ead2020_testD_0016.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 16,
+      "file_name": "ead2020_testD_0017.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 17,
+      "file_name": "ead2020_testD_0018.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 18,
+      "file_name": "ead2020_testD_0019.jpg"
+    },
+    {
+      "height": 457,
+      "width": 535,
+      "id": 19,
+      "file_name": "ead2020_testD_0020.jpg"
+    },
+    {
+      "height": 452,
+      "width": 608,
+      "id": 20,
+      "file_name": "ead2020_testD_0021.jpg"
+    },
+    {
+      "height": 452,
+      "width": 608,
+      "id": 21,
+      "file_name": "ead2020_testD_0022.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 22,
+      "file_name": "ead2020_testD_0023.jpg"
+    },
+    {
+      "height": 452,
+      "width": 608,
+      "id": 23,
+      "file_name": "ead2020_testD_0024.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 24,
+      "file_name": "ead2020_testD_0025.jpg"
+    },
+    {
+      "height": 452,
+      "width": 608,
+      "id": 25,
+      "file_name": "ead2020_testD_0026.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 26,
+      "file_name": "ead2020_testD_0027.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 27,
+      "file_name": "ead2020_testD_0028.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 28,
+      "file_name": "ead2020_testD_0029.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1156,
+      "id": 29,
+      "file_name": "ead2020_testD_0030.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 30,
+      "file_name": "ead2020_testD_0031.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 31,
+      "file_name": "ead2020_testD_0032.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1156,
+      "id": 32,
+      "file_name": "ead2020_testD_0033.jpg"
+    },
+    {
+      "height": 457,
+      "width": 535,
+      "id": 33,
+      "file_name": "ead2020_testD_0034.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 34,
+      "file_name": "ead2020_testD_0035.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 35,
+      "file_name": "ead2020_testD_0036.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 36,
+      "file_name": "ead2020_testD_0037.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 37,
+      "file_name": "ead2020_testD_0038.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 38,
+      "file_name": "ead2020_testD_0039.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 39,
+      "file_name": "ead2020_testD_0040.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 40,
+      "file_name": "ead2020_testD_0041.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 41,
+      "file_name": "ead2020_testD_0042.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 42,
+      "file_name": "ead2020_testD_0043.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 43,
+      "file_name": "ead2020_testD_0044.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 44,
+      "file_name": "ead2020_testD_0045.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 45,
+      "file_name": "ead2020_testD_0046.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 46,
+      "file_name": "ead2020_testD_0047.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 47,
+      "file_name": "ead2020_testD_0048.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 48,
+      "file_name": "ead2020_testD_0049.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 49,
+      "file_name": "ead2020_testD_0050.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 50,
+      "file_name": "ead2020_testD_0051.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 51,
+      "file_name": "ead2020_testD_0052.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 52,
+      "file_name": "ead2020_testD_0053.jpg"
+    },
+    {
+      "height": 367,
+      "width": 392,
+      "id": 53,
+      "file_name": "ead2020_testD_0054.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 54,
+      "file_name": "ead2020_testD_0055.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 55,
+      "file_name": "ead2020_testD_0056.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 56,
+      "file_name": "ead2020_testD_0057.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 57,
+      "file_name": "ead2020_testD_0058.jpg"
+    },
+    {
+      "height": 1009,
+      "width": 1021,
+      "id": 58,
+      "file_name": "ead2020_testD_0059.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 59,
+      "file_name": "ead2020_testD_0060.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 60,
+      "file_name": "ead2020_testD_0061.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 61,
+      "file_name": "ead2020_testD_0062.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 62,
+      "file_name": "ead2020_testD_0063.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 63,
+      "file_name": "ead2020_testD_0064.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 64,
+      "file_name": "ead2020_testD_0065.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 65,
+      "file_name": "ead2020_testD_0066.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 66,
+      "file_name": "ead2020_testD_0067.jpg"
+    },
+    {
+      "height": 1009,
+      "width": 1021,
+      "id": 67,
+      "file_name": "ead2020_testD_0068.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 68,
+      "file_name": "ead2020_testD_0069.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 69,
+      "file_name": "ead2020_testD_0070.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 70,
+      "file_name": "ead2020_testD_0071.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 71,
+      "file_name": "ead2020_testD_0072.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 72,
+      "file_name": "ead2020_testD_0073.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 73,
+      "file_name": "ead2020_testD_0074.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 74,
+      "file_name": "ead2020_testD_0075.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 75,
+      "file_name": "ead2020_testD_0076.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 76,
+      "file_name": "ead2020_testD_0077.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 77,
+      "file_name": "ead2020_testD_0078.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 78,
+      "file_name": "ead2020_testD_0079.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 79,
+      "file_name": "ead2020_testD_0080.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 80,
+      "file_name": "ead2020_testD_0081.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 81,
+      "file_name": "ead2020_testD_0082.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 82,
+      "file_name": "ead2020_testD_0083.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 83,
+      "file_name": "ead2020_testD_0084.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 84,
+      "file_name": "ead2020_testD_0085.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 85,
+      "file_name": "ead2020_testD_0086.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 86,
+      "file_name": "ead2020_testD_0087.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 87,
+      "file_name": "ead2020_testD_0088.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 88,
+      "file_name": "ead2020_testD_0089.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 89,
+      "file_name": "ead2020_testD_0090.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 90,
+      "file_name": "ead2020_testD_0091.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 91,
+      "file_name": "ead2020_testD_0092.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 92,
+      "file_name": "ead2020_testD_0093.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 93,
+      "file_name": "ead2020_testD_0094.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 94,
+      "file_name": "ead2020_testD_0095.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 95,
+      "file_name": "ead2020_testD_0096.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 96,
+      "file_name": "ead2020_testD_0097.jpg"
+    },
+    {
+      "height": 388,
+      "width": 380,
+      "id": 97,
+      "file_name": "ead2020_testD_0098.jpg"
+    },
+    {
+      "height": 1009,
+      "width": 1021,
+      "id": 98,
+      "file_name": "ead2020_testD_0099.jpg"
+    },
+    {
+      "height": 388,
+      "width": 380,
+      "id": 99,
+      "file_name": "ead2020_testD_0100.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 100,
+      "file_name": "ead2020_testD_0101.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 101,
+      "file_name": "ead2020_testD_0102.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 102,
+      "file_name": "ead2020_testD_0103.jpg"
+    },
+    {
+      "height": 388,
+      "width": 380,
+      "id": 103,
+      "file_name": "ead2020_testD_0104.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1243,
+      "id": 104,
+      "file_name": "ead2020_testD_0105.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 105,
+      "file_name": "ead2020_testD_0106.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 106,
+      "file_name": "ead2020_testD_0107.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 107,
+      "file_name": "ead2020_testD_0108.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 108,
+      "file_name": "ead2020_testD_0109.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 109,
+      "file_name": "ead2020_testD_0110.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 110,
+      "file_name": "ead2020_testD_0111.jpg"
+    },
+    {
+      "height": 480,
+      "width": 628,
+      "id": 111,
+      "file_name": "ead2020_testD_0112.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 112,
+      "file_name": "ead2020_testD_0113.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 113,
+      "file_name": "ead2020_testD_0114.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 114,
+      "file_name": "ead2020_testD_0115.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 115,
+      "file_name": "ead2020_testD_0116.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 116,
+      "file_name": "ead2020_testD_0117.jpg"
+    },
+    {
+      "height": 480,
+      "width": 446,
+      "id": 117,
+      "file_name": "ead2020_testD_0118.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 118,
+      "file_name": "ead2020_testD_0119.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 119,
+      "file_name": "ead2020_testD_0120.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 120,
+      "file_name": "ead2020_testD_0121.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 121,
+      "file_name": "ead2020_testD_0122.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 122,
+      "file_name": "ead2020_testD_0123.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 123,
+      "file_name": "ead2020_testD_0124.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 124,
+      "file_name": "ead2020_testD_0125.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 125,
+      "file_name": "ead2020_testD_0126.jpg"
+    },
+    {
+      "height": 480,
+      "width": 446,
+      "id": 126,
+      "file_name": "ead2020_testD_0127.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 127,
+      "file_name": "ead2020_testD_0128.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 128,
+      "file_name": "ead2020_testD_0129.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 129,
+      "file_name": "ead2020_testD_0130.jpg"
+    },
+    {
+      "height": 480,
+      "width": 628,
+      "id": 130,
+      "file_name": "ead2020_testD_0131.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 131,
+      "file_name": "ead2020_testD_0132.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 132,
+      "file_name": "ead2020_testD_0133.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 133,
+      "file_name": "ead2020_testD_0134.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 134,
+      "file_name": "ead2020_testD_0135.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 135,
+      "file_name": "ead2020_testD_0136.jpg"
+    },
+    {
+      "height": 1000,
+      "width": 1025,
+      "id": 136,
+      "file_name": "ead2020_testD_0137.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 137,
+      "file_name": "ead2020_testD_0138.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 138,
+      "file_name": "ead2020_testD_0139.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 139,
+      "file_name": "ead2020_testD_0140.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 140,
+      "file_name": "ead2020_testD_0141.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 141,
+      "file_name": "ead2020_testD_0142.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 142,
+      "file_name": "ead2020_testD_0143.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 143,
+      "file_name": "ead2020_testD_0144.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 144,
+      "file_name": "ead2020_testD_0145.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 145,
+      "file_name": "ead2020_testD_0146.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 146,
+      "file_name": "ead2020_testD_0147.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 147,
+      "file_name": "ead2020_testD_0148.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 148,
+      "file_name": "ead2020_testD_0149.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1156,
+      "id": 149,
+      "file_name": "ead2020_testD_0150.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 150,
+      "file_name": "ead2020_testD_0151.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 151,
+      "file_name": "ead2020_testD_0152.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 152,
+      "file_name": "ead2020_testD_0153.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 153,
+      "file_name": "ead2020_testD_0154.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 154,
+      "file_name": "ead2020_testD_0155.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 155,
+      "file_name": "ead2020_testD_0156.jpg"
+    },
+    {
+      "height": 367,
+      "width": 392,
+      "id": 156,
+      "file_name": "ead2020_testD_0157.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 157,
+      "file_name": "ead2020_testD_0158.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 158,
+      "file_name": "ead2020_testD_0159.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 159,
+      "file_name": "ead2020_testD_0160.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 160,
+      "file_name": "ead2020_testD_0161.jpg"
+    },
+    {
+      "height": 446,
+      "width": 602,
+      "id": 161,
+      "file_name": "ead2020_testD_0162.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 162,
+      "file_name": "ead2020_testD_0163.jpg"
+    },
+    {
+      "height": 1003,
+      "width": 1003,
+      "id": 163,
+      "file_name": "ead2020_testD_0164.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 164,
+      "file_name": "ead2020_testD_0165.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 165,
+      "file_name": "ead2020_testD_0166.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 166,
+      "file_name": "ead2020_testD_0167.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 167,
+      "file_name": "ead2020_testD_0168.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 168,
+      "file_name": "ead2020_testD_0169.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 169,
+      "file_name": "ead2020_testD_0170.jpg"
+    },
+    {
+      "height": 367,
+      "width": 392,
+      "id": 170,
+      "file_name": "ead2020_testD_0171.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 171,
+      "file_name": "ead2020_testD_0172.jpg"
+    },
+    {
+      "height": 460,
+      "width": 450,
+      "id": 172,
+      "file_name": "ead2020_testD_0173.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 173,
+      "file_name": "ead2020_testD_0174.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1157,
+      "id": 174,
+      "file_name": "ead2020_testD_0175.jpg"
+    },
+    {
+      "height": 1010,
+      "width": 1157,
+      "id": 175,
+      "file_name": "ead2020_testD_0176.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1156,
+      "id": 176,
+      "file_name": "ead2020_testD_0177.jpg"
+    },
+    {
+      "height": 388,
+      "width": 380,
+      "id": 177,
+      "file_name": "ead2020_testD_0178.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1920,
+      "id": 178,
+      "file_name": "ead2020_testD_0179.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 179,
+      "file_name": "ead2020_testD_0180.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 180,
+      "file_name": "ead2020_testD_0181.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 181,
+      "file_name": "ead2020_testD_0182.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 182,
+      "file_name": "ead2020_testD_0183.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 183,
+      "file_name": "ead2020_testD_0184.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 184,
+      "file_name": "ead2020_testD_0185.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1350,
+      "id": 185,
+      "file_name": "ead2020_testD_0186.jpg"
+    },
+    {
+      "height": 1006,
+      "width": 1156,
+      "id": 186,
+      "file_name": "ead2020_testD_0187.jpg"
+    },
+    {
+      "height": 371,
+      "width": 343,
+      "id": 187,
+      "file_name": "ead2020_testD_0188.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1351,
+      "id": 188,
+      "file_name": "ead2020_testD_0189.jpg"
+    },
+    {
+      "height": 1080,
+      "width": 1244,
+      "id": 189,
+      "file_name": "ead2020_testD_0190.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 190,
+      "file_name": "ead2020_testD_0191.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 191,
+      "file_name": "ead2020_testD_0192.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1339,
+      "id": 192,
+      "file_name": "ead2020_testD_0193.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 193,
+      "file_name": "ead2020_testD_0194.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 194,
+      "file_name": "ead2020_testD_0195.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 195,
+      "file_name": "ead2020_testD_0196.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 196,
+      "file_name": "ead2020_testD_0197.jpg"
+    },
+    {
+      "height": 1102,
+      "width": 1256,
+      "id": 197,
+      "file_name": "ead2020_testD_0198.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 198,
+      "file_name": "ead2020_testD_0199.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 199,
+      "file_name": "ead2020_testD_0200.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 200,
+      "file_name": "ead2020_testD_0201.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 201,
+      "file_name": "ead2020_testD_0202.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1339,
+      "id": 202,
+      "file_name": "ead2020_testD_0203.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 203,
+      "file_name": "ead2020_testD_0204.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 204,
+      "file_name": "ead2020_testD_0205.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1339,
+      "id": 205,
+      "file_name": "ead2020_testD_0206.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 206,
+      "file_name": "ead2020_testD_0207.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 207,
+      "file_name": "ead2020_testD_0208.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 208,
+      "file_name": "ead2020_testD_0209.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 209,
+      "file_name": "ead2020_testD_0210.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 210,
+      "file_name": "ead2020_testD_0211.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 211,
+      "file_name": "ead2020_testD_0212.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1343,
+      "id": 212,
+      "file_name": "ead2020_testD_0213.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 213,
+      "file_name": "ead2020_testD_0214.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 214,
+      "file_name": "ead2020_testD_0215.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 215,
+      "file_name": "ead2020_testD_0216.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 216,
+      "file_name": "ead2020_testD_0217.jpg"
+    },
+    {
+      "height": 1102,
+      "width": 1256,
+      "id": 217,
+      "file_name": "ead2020_testD_0218.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 218,
+      "file_name": "ead2020_testD_0219.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 219,
+      "file_name": "ead2020_testD_0220.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 220,
+      "file_name": "ead2020_testD_0221.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 221,
+      "file_name": "ead2020_testD_0222.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 222,
+      "file_name": "ead2020_testD_0223.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1342,
+      "id": 223,
+      "file_name": "ead2020_testD_0224.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 224,
+      "file_name": "ead2020_testD_0225.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 225,
+      "file_name": "ead2020_testD_0226.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 226,
+      "file_name": "ead2020_testD_0227.jpg"
+    },
+    {
+      "height": 1100,
+      "width": 1252,
+      "id": 227,
+      "file_name": "ead2020_testD_0228.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1339,
+      "id": 228,
+      "file_name": "ead2020_testD_0229.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 229,
+      "file_name": "ead2020_testD_0230.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 230,
+      "file_name": "ead2020_testD_0231.jpg"
+    },
+    {
+      "height": 1178,
+      "width": 1340,
+      "id": 231,
+      "file_name": "ead2020_testD_0232.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 232,
+      "file_name": "ead2020_testD_0233.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 233,
+      "file_name": "ead2020_testD_0234.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 234,
+      "file_name": "ead2020_testD_0235.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 235,
+      "file_name": "ead2020_testD_0236.jpg"
+    },
+    {
+      "height": 576,
+      "width": 576,
+      "id": 236,
+      "file_name": "ead2020_testD_0237.jpg"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "specularity"
+    },
+    {
+      "id": 2,
+      "name": "saturation"
+    },
+    {
+      "id": 3,
+      "name": "artifact"
+    },
+    {
+      "id": 4,
+      "name": "blur"
+    },
+    {
+      "id": 5,
+      "name": "contrast"
+    },
+    {
+      "id": 6,
+      "name": "bubbles"
+    },
+    {
+      "id": 7,
+      "name": "instrument"
+    },
+    {
+      "id": 8,
+      "name": "blood"
+    }
+  ]
+}
